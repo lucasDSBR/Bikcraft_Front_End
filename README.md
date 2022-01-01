@@ -1,5 +1,4 @@
 # Bikcraft_Front_End
-# Polls_Django
 ## Font - 1
 <img alt="" title="" src="https://github.com/lucasDSBR/Bikcraft_Front_End/blob/main/imgs/img1.PNG" />
 
